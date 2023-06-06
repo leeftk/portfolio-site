@@ -24,6 +24,9 @@ const Experience = () => {
                         <li>Assisted Research &amp; Development on Web3 Products</li>
                     </ul>
                 </li>
+                <li>
+                    More projects and code that I've written available on my GitHub.
+                </li>
            
             </ul>
         </div>
